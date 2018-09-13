@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 圆形数字控件 -->
+    <declare-styleable name="NumTipView">
+        <attr name="max_num" format="integer" />
+        <attr name="min_num" format="integer" />
+        <attr name="text_size" format="dimension" />
+        <attr name="text_color" format="color" />
+        <attr name="min_gone" format="boolean" />
+        <attr name="hor_padding" format="dimension" />
+        <attr name="ver_padding" format="dimension" />
+    </declare-styleable>
+</resources>
