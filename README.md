@@ -20,7 +20,7 @@ lastversion目前是1.0.0
         android:layout_height="wrap_content"
         android:background="#112233"
         app:max_num="99"
-		app:min_num="0"
+	app:min_num="0"
         app:min_gone="true"        
         app:text_color="#ffff13"
         app:text_size="10sp"
