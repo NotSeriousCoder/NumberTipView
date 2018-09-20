@@ -14,7 +14,6 @@ public class ShapeSelectorUtil {
     /**
      * 定义一个shape资源
      *
-     * @return
      */
     public static GradientDrawable getDrawable(StrokeWrapper strok, CornersWrapper corners, @ColorInt int soildColor, int gradientType) {
         GradientDrawable gradientDrawable = new GradientDrawable();

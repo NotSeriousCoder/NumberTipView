@@ -20,10 +20,15 @@
         android:id="@+id/ntv_m_frg_mine_p_msg_num"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="#112233"
         android:layout_centerVertical="true"
         android:layout_marginRight="6dp"
+        android:background="#112233"
+        app:hor_padding="15dp"
+        app:max_num="99"
         app:min_gone="true"
-        app:text_size="10sp" />
+        app:min_num="0"
+        app:text_color="#ffff13"
+        app:text_size="10sp"
+        app:ver_padding="15dp" />
 
 </LinearLayout>
