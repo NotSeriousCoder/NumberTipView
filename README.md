@@ -1,6 +1,6 @@
 # NumberTipView
 
-##引用方法
+## 引用方法
 	1.在项目的Gradle文件
 		allprojects {
 		repositories {
@@ -13,7 +13,7 @@
 	
 lastversion目前是1.0.0	
 
-##使用方法
+## 使用方法
 	1.
 	<com.bingor.numbertipview.NumTipView
         android:layout_width="wrap_content"
@@ -36,7 +36,7 @@ lastversion目前是1.0.0
 	2.代码里面需要setNum(num)给一个初始值，否则看不到效果
 	
 	
-##Bug反馈
+## Bug反馈
 	请在Github直接提，或者邮箱找我710267819@qq.com
 	
 	
